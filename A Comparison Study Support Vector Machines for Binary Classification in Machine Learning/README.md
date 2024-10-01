@@ -1,4 +1,4 @@
-# A Comparison Study: Support Vector Machines for Binary Classification in Machine Learning
+# A Comparison Study: Support Vector Machines for Binary Classification in Machine Learning 
 
 Paper Link : [A Comparison Study: Support Vector Machines for Binary Classification in Machine Learning](https://sci-hub.se/10.1109/BMEI.2011.6098517)
 
