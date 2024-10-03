@@ -1,6 +1,6 @@
 # A Comparison Study: Support Vector Machines for Binary Classification in Machine Learning 
 
-Paper Link : [A Comparison Study: Support Vector Machines for Binary Classification in Machine Learning](https://sci-hub.se/10.1109/BMEI.2011.6098517)
+Paper Link : [A Comparison Study: Support Vector Machines for Binary Classification in Machine Learning](https://sci-hub.se/10.1109/BMEI.2011.6098517) 
 
 This project replicates and extends the comparison study of various Support Vector Machine (SVM) algorithms for binary classification as described in the paper. The primary focus is on evaluating several SVM variants in both **supervised** and **semi-supervised learning frameworks**, including **LapSVM**.
 
